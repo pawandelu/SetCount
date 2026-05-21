@@ -14,8 +14,8 @@ const Setcount = () => {
   
  
   return (
-    <section className="px-4 ">
-      <div className="max-w-285 mx-auto justify-center items-center flex md:flex-row flex-col gap-8 py-20">
+    <section className="px-4 pt-20 " id="Counter">
+      <div className="max-w-285 mx-auto justify-center items-center flex md:flex-row flex-col gap-8">
         <div className="flex flex-col items-center gap-5 md:w-100 md:h-75 w-75 h-50 border border-blue-300 justify-center rounded-2xl">
           <h1 className="font-bold text-5xl leading-[100%] text-black">
             Counter: {count}

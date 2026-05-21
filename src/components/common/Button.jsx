@@ -7,7 +7,7 @@ const Button = ({ text, vari }) => {
   };
   return (
     <button
-      className={`font-bold text-[18px] px-8 py-5 leading-[100%] rounded-[56px] ${varints[vari]}`}>{text}</button>
+      className={`font-bold text-[18px] px-8 py-5 leading-[100%] rounded-[56px] cursor-pointer  ${varints[vari]}`}>{text}</button>
   );
 };
 

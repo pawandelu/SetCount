@@ -6,7 +6,7 @@ import Button from "../common/Button";
 
 const Ceramic = () => {
   return (
-    <section class=" lg:py-28 md:py-20 mb-11 px-4 py-28">
+    <section class=" lg:py-28 md:py-20 mb-11 px-4 pt-8 " id="Ceramic">
       <div class="max-w-285 w-full mx-auto flex justify-between xl:flex-row flex-col max-xl:items-center">
         <div class=" sm:max-w-121.25 w-full relative sm:h-157.75 max-sm:w-76.5 h-103.75">
           <img

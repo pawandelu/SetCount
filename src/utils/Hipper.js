@@ -1,24 +1,17 @@
 export const NAVBAR_LIST = [
   {
-    link: "/",
-    title: "Home",
+    link: "#Counter",
+    title: "Counter",
   },
   {
-    link: "/",
-    title: "About",
+    link: "#Filter",
+    title: "Filter",
   },
   {
-    link: "/",
-    title: "Tokenomics",
+    link: "#Ceramic",
+    title: "Ceramic",
   },
-  {
-    link: "/",
-    title: "How to buy",
-  },
-  {
-    link: "/",
-    title: "FAQ",
-  },
+ 
 ];
 
 export const ALL_PRODUCT = [
